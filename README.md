@@ -1,0 +1,6 @@
+'# MyLabWork Project' 
+'This project is for demonstrating a simple Python setup with functions and tests.' 
+'Files inside the `source/` directory:' 
+'- main.py: The main script' 
+'- utils.py: Helper functions' 
+'- config.py: Configuration file with user data' 
